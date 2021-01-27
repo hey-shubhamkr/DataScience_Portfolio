@@ -1,4 +1,5 @@
 # Machine Learning Portfolio
+Welcome to my Github Portfolio. This page contains all the Data Science projects developed by me.
 
 # [Project 1 : Audiobook-Casestudy](https://github.com/hey-shubhamkr/Audiobook-Casestudy) 
 <b>About - Creating a Machine learning algorithm to predict if a customer will buy again using Tensorflow. <br></b>
@@ -29,6 +30,9 @@ The dataset is called MNIST and refers to handwritten digit recognition.The data
 # [Project 5 : Resalevalue Predictor](https://github.com/hey-shubhamkr/resalevalue-predictor-/blob/master/UsingLinearReg.ipynb)
 <b>About - This is a project using Linear regression to predict the price of the used car depending on its specifications </b><br>
 Create a best fit line using Scikit-Learn for the given Second Hand Cars data and then predict the resale value. 
+
+#### Thank you for visiting my Repository.
+#### For any Questions and Suggestions kindly reach me at Shubhamkumar029@gmail.com
 
 
 
